@@ -1,0 +1,97 @@
+{
+  "example_1": {
+    "id": 1,
+    "from": {
+      "description": "Edificio Almirante", 
+      "place": "Santa Marta - Colombia",
+      "height": 70,
+      "lat": 11.235,
+      "lng": -74.218
+    },
+    "to": {
+      "description": "Mirage 57",
+      "place": "Barranquilla - Colombia",
+      "height": 162,
+      "lat": 11.006,
+      "lng": -74.80
+    },
+    "image": "https://www.instagram.com/p/Bn2Cc7Olm2c/",
+    "isInstagram": true
+  },
+  "example_2": {
+    "id": 2,
+    "from": {
+      "description": "Warren Dunes State Park", 
+      "place": "Michigan - USA",
+      "height": 50,
+      "lat": 41.906,
+      "lng": -86.602
+    },
+    "to": {
+      "description": "Wills Tower",
+      "place": "Chicago - USA",   
+      "height": 527,
+      "lat": 41.878,
+      "lng": -87.635
+    },
+    "image": "https://www.instagram.com/p/BoFuJ8gBs3f/",
+    "isInstagram": true
+  },
+  "example_3": {
+    "id": 3,
+    "from": {
+      "description": "City center", 
+      "place": "St. Catharines - Canada",
+      "height": 30,
+      "lat": 43.181,
+      "lng": -79.284
+    },
+    "to": {
+      "description": "CN Tower",
+      "place": "Toronto - Canada",   
+      "height": 553,
+      "lat": 43.642,
+      "lng": -79.389
+    },
+    "image": "https://www.instagram.com/p/BiLEyCrF8Iy/",
+    "isInstagram": true
+  },
+  "example_4": {
+    "id": 4,
+    "from": {
+      "description": "Faro de Colonia", 
+      "place": "Colonia del Sacramento - Uruguay",
+      "height": 26,
+      "lat": -34.472,
+      "lng": -57.854
+    },
+    "to": {
+      "description": "Torres Mulieris",
+      "place": "Buanos Aires - Argentina",   
+      "height": 162,
+      "lat": -34.613,
+      "lng": -58.357
+    },
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/7a/42/6a/farol-de-colonia-do-sacramento.jpg",
+    "isInstagram": false
+  },
+  "example_5": {
+    "id": 5,
+    "from": {
+      "description": "La Mussara, Serra de la Mussara", 
+      "place": "Tarragona - Spain",
+      "height": 1055,
+      "lat": 41.256,
+      "lng": 1.054
+    },
+    "to": {
+      "description": "Puig Major, Serra de Tramuntana",
+      "place": "Mallorca - España",   
+      "height": 1445,
+      "lat": 39.808,
+      "lng": 2.786
+    },
+    "image": "https://pbs.twimg.com/media/DtHLN5UXcAEcWQ8.jpg",
+    "isInstagram": false
+  }
+}
