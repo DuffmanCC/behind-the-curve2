@@ -23,6 +23,9 @@ export default new Vuex.Store({
       from: {},
       to: {},
       distance: ''
+    },
+    formDialog: {
+      isOpen: false
     }
   },
 

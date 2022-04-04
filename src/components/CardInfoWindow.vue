@@ -8,7 +8,7 @@
     >
         <v-card class="mb-2">
             <v-toolbar dark color="primary">
-                <v-btn icon dark @click="infoWindow.isOpened= false">
+                <v-btn icon dark @click="infoWindow.isOpened = false">
                   <v-icon>close</v-icon>
                 </v-btn>
 
